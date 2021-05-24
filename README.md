@@ -7,5 +7,5 @@ More or less copied directly from [getdave/standalone-block-editor](https://gith
 ### Use
 
  1. npm install
- 2. npx wp-scripts build --no-externals
+ 2. npx wp-scripts build --webpack-no-externals
  3. Open up editor.html in a browser
