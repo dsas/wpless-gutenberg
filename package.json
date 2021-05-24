@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@wordpress/block-editor": "^6.1.0",
+    "@wordpress/block-library": "^3.1.0",
+    "@wordpress/format-library": "^2.1.0",
+    "@wordpress/interface": "^3.1.0",
+    "@wordpress/scripts": "^16.1.0",
+    "react-jsx": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.14.3"
+  }
+}
